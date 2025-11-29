@@ -13,4 +13,6 @@ Automated loginPage for website : https://demo.nopcommerce.com/
   
 - Use Allure Reports pour rapport de test visuels et détaillés
 
+  <img width="1361" height="556" alt="Image" src="https://github.com/user-attachments/assets/ab455985-cd67-41a9-b666-641859cd9d36" />
+
 
