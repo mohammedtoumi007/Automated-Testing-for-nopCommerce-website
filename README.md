@@ -9,6 +9,8 @@ Automated loginPage for website : https://demo.nopcommerce.com/
 
 - Use Jenkins CI/CD pour l'orchestration des tests
 
+  jenkins #1
+
 - Use Allure Reports pour rapport de test visuels et détaillés
 
 
