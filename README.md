@@ -9,8 +9,8 @@ Automated loginPage for website : https://demo.nopcommerce.com/
 
 - Use Jenkins CI/CD pour l'orchestration des tests
 
-  jenkins #1
-
+  https://github.com/mohammedtoumi007/Automated-Testing-for-nopCommerce-website/issues/1#issue-3676556868
+  
 - Use Allure Reports pour rapport de test visuels et détaillés
 
 
