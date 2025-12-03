@@ -11,7 +11,7 @@ public class LoginPageTest extends BaseTest{
 	public void testValidLogin() {
 		LoginPage login = new LoginPage(driver);
 		login.EnterUserName("medtoumi007@gmail.com");
-		login.EnterPassword("123POOP");
+		login.EnterPassword("med123");
 		login.ClickLoginButton();
 		System.out.println("Title of the page is : "+driver.getTitle());
 	}
